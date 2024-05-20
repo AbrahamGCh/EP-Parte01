@@ -1,0 +1,10 @@
+Lapiz
+Lapicero
+Borrador
+Tajador
+Regla
+Lamina
+Liquipaper
+Tintero
+Compas
+Cartuchera
